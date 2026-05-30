@@ -1,0 +1,6 @@
+{
+  "name": "Market Data API",
+  "description": "High-performance, developer-first financial market data platform providing real-time stock prices, historical charts, news, and embeddable widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
